@@ -80,6 +80,7 @@ This repository is organized into three main folders:
 - **Step 1**: Open your forked repository of the seminar repo (e.g., `https://github.com/your-username/Master-Seminar-AI-for-Vision-Language-Models-in-Medical-Imaging-IN2107-IN45069`).
 
 - **Step 2**: Locate the **Student Presentations** section and then add your paper and GitHub link to the table.
+![alt text](image.png){ width=50% }
 
 - **Step 3**: Commit and push your changes:
 
@@ -90,7 +91,22 @@ This repository is organized into three main folders:
   ```
 ---
 
-### 5. Important Notes 🚨
+### 5. Submit a Pull Request (PR) 📥
+
+- **Step 1**: After adding your repository link to the seminar repository, navigate to the **Pull Requests** tab in your forked repository.
+
+- **Step 2**: Click on **New Pull Request** and ensure that the base repository is the seminar repository (e.g., `LijunRio/Master-Seminar-AI-for-Vision-Language-Models-in-Medical-Imaging-IN2107-IN45069-`) and the base branch is `main`.
+
+- **Step 3**: Add a title and description for your pull request. For example:
+  - **Title**: "Submission by [Your Name]"
+  - **Description**: "Added my repository link and paper to the Student Presentations section."
+
+- **Step 4**: Click **Create Pull Request** to submit your changes for review.
+
+- **Step 5**: Wait for the seminar supervisors to review and merge your pull request. You will be notified once it is merged.
+
+
+### 6. Important Notes 🚨
 
 If you encounter any issues during the submission process or have seminar-related questions, please email us (remember to **CC all supervisors**):
 
