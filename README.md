@@ -80,7 +80,7 @@ This repository is organized into three main folders:
 - **Step 1**: Open your forked repository of the seminar repo (e.g., `https://github.com/your-username/Master-Seminar-AI-for-Vision-Language-Models-in-Medical-Imaging-IN2107-IN45069`).
 
 - **Step 2**: Locate the **Student Presentations** section and then add your paper and GitHub link to the table.
-![alt text](assest/image.png){ width=50% }
+![alt text](assest/image.png)
 
 - **Step 3**: Commit and push your changes:
 
